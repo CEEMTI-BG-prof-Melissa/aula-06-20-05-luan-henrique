@@ -1,0 +1,13 @@
+div p {
+  color: blue;
+}
+.container > p {
+  background-color: lightcoral;
+}
+h2 + p {
+  font-weight: bold;
+}
+
+h2 ~ p {
+  font-style: italic
+}
